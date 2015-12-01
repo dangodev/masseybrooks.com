@@ -1,0 +1,2 @@
+[19-Jul-2015 06:05:29 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/dangodes/public_html/masseybrooks/wp-content/themes/kara/404.php on line 1
+[25-Jul-2015 12:56:02 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/dangodes/public_html/masseybrooks/wp-content/themes/kara/404.php on line 1
